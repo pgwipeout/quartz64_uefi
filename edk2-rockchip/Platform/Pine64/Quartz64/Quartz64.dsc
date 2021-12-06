@@ -392,8 +392,8 @@
   gEfiMdeModulePkgTokenSpaceGuid.PcdSerialRegisterAccessWidth|32
 
   # TODO: Use 1.5M baud
-  #gEfiMdePkgTokenSpaceGuid.PcdUartDefaultBaudRate|1500000
-  gEfiMdePkgTokenSpaceGuid.PcdUartDefaultBaudRate|115200
+  gEfiMdePkgTokenSpaceGuid.PcdUartDefaultBaudRate|1500000
+  #gEfiMdePkgTokenSpaceGuid.PcdUartDefaultBaudRate|115200
   
   #
   # ARM General Interrupt Controller (GIC600)
